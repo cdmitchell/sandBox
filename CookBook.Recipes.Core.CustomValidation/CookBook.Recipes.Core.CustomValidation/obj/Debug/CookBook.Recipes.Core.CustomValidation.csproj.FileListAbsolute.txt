@@ -1,0 +1,4 @@
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CookBook.Recipes.Core.CustomValidation\bin\Debug\CookBook.Recipes.Core.CustomValidation.dll
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CookBook.Recipes.Core.CustomValidation\bin\Debug\CookBook.Recipes.Core.CustomValidation.pdb
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CookBook.Recipes.Core.CustomValidation\obj\Debug\CookBook.Recipes.Core.CustomValidation.dll
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CookBook.Recipes.Core.CustomValidation\obj\Debug\CookBook.Recipes.Core.CustomValidation.pdb

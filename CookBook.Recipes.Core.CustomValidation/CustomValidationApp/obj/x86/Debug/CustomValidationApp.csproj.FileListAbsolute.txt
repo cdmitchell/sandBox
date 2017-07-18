@@ -1,0 +1,10 @@
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\bin\Debug\CustomValidationApp.exe
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\bin\Debug\CustomValidationApp.pdb
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\bin\Debug\CookBook.Recipes.Core.CustomValidation.dll
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\bin\Debug\CookBook.Recipes.Core.CustomValidation.pdb
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CustomValidationApp.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CustomValidationApp.Properties.Resources.resources
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CookBook.Recipes.Core.CustomValidation.Register.resources
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CustomValidationApp.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CustomValidationApp.exe
+H:\Visual Studio 2010\CookBook.Recipes.Core.CustomValidation\CustomValidationApp\obj\x86\Debug\CustomValidationApp.pdb
