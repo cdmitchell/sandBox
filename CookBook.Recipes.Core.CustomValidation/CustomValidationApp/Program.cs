@@ -17,6 +17,7 @@ namespace CustomValidationApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Register());
+            Application.Exit();
         }
     }
 }
